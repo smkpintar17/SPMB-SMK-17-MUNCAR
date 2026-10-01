@@ -4,7 +4,7 @@
    ========================================================== */
 
 const CONFIG={
-  GOOGLE_SCRIPT_URL:"", // Tempel URL Web App Google Apps Script di sini.
+  GOOGLE_SCRIPT_URL:"https://script.google.com/macros/s/AKfycbzcsZXkDeqquXf1Fe6FQlzTHcyjpjBmh84X0rB81jAI0YtMK9FmsCV1Ao_ltoJNfgcJ/exec", // Tempel URL Web App Google Apps Script di sini.
   SCHOOL:"SMK 17 MUNCAR",
   GAME:"SMK PINTAR"
 };
