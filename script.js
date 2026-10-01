@@ -4,7 +4,7 @@
    ========================================================== */
 
 const CONFIG={
-  GOOGLE_SCRIPT_URL:"", // Isi URL Web App Google Apps Script.
+  GOOGLE_SCRIPT_URL:"https://script.google.com/macros/s/AKfycbxyUWjlMW4hmZngSvUlsJlpGDv24FZZIbCR3p86BnVPgLwOYe2qryWGs0GnG38Rfpve/exec", // Isi URL Web App Google Apps Script.
   SCHOOL:"SMK 17 MUNCAR",
   GAME:"SMK PINTAR",
   // Akun Superadmin DEMO. Untuk produksi, pindahkan autentikasi admin ke backend.
